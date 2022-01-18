@@ -72,7 +72,7 @@
 | Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
-
+| Ethan Wertz             | Section 003       | evw5316              |<https://evw5316.github.io/repo1/>                          |
 
 
 
