@@ -49,7 +49,6 @@
 
 
 # Class GitHub Table  
-
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Omar Hagrass            | Section 003       | OmarHagrass          |<https://omarhagrass.github.io/GitHub-pages-184/>           |  
