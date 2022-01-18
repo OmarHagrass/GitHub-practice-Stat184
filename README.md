@@ -72,6 +72,7 @@
 | Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
+| Varun Bhatnagar         | Section 003       | vb2024               |<https://vb2024.github.io/Stat184/>               |
 
 
 
