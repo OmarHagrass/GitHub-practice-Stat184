@@ -87,7 +87,7 @@
 | TianYa Jen              | Section 003       | StephanieJen         |<https://stephaniejen.github.io/GitHub_Practice-/           |
 | Aaryan Bavishi          | Section 003       | AaryanBavishi        | <https://aaryanbavishi.github.io/State184/>                |
 | Saumyaa Sinha           | Section 003       | saumyaasinha         | <https://saumyaasinha.github.io/PSU/>                      |
-| Jill Mannix|            | Section 003       | jam8291              | <https://jam8291.github.io/stat184/>                       |
+| Jill Mannix            | Section 003       | jam8291              | <https://jam8291.github.io/stat184/>                       |
 | Shane Marotta           | Section 003       | Shane-Marotta        |<https://shane-marotta.github.io/Stat184-Githubpractice/>   |
 | Kate Acosta             | Section 003       | kaa5772              |<https://kaa5772.github.io/Stat184/>                        |
 
