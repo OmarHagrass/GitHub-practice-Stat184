@@ -71,6 +71,7 @@
 | Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
+| Ziyan He                | Section 003       | ZiyanHe1             |<https://ziyanhe1.github.io/assignment/>                    |  
 | Thomas Lewis            | Section 003       | tlew2314             | <https://tlew2314.github.io/First-Repo/>                   |        
 | Korey Kletch            | Section 003       | KoreyKletch          |<https://koreykletch.github.io/GitHubPractice/>             |
 | John Sweetall           | Section 003.      | JohnSweetall         |<https://johnsweetall.github.io/STAT-184-Practice/          |
@@ -88,6 +89,7 @@
 | Jill Mannix|            | Section 003       | jam8291              | <https://jam8291.github.io/stat184/>                       |
 | Shane Marotta           | Section 003       | Shane-Marotta        |<https://shane-marotta.github.io/Stat184-Githubpractice/>   |
 | Kate Acosta             | Section 003       | kaa5772              |<https://kaa5772.github.io/Stat184/>                        |
+
 
 
 
