@@ -73,6 +73,9 @@
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
 | Shane Marotta           | Section 003       | Shane-Marotta        |<https://shane-marotta.github.io/Stat184-Githubpractice/>   |
+| Kate Acosta             | Section 003       | kaa5772              |<https://kaa5772.github.io/Stat184/>                        |
+
+
 
 
 <br>
