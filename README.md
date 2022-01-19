@@ -1,5 +1,4 @@
 # GitHub-practice-Stat184
-
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
@@ -72,7 +71,7 @@
 | Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
-
+| Cheyenne Edwards       | Section 003       | CheyenneE21           |<https://cheyennee21.github.io/CE21/>       |
 
 
 
