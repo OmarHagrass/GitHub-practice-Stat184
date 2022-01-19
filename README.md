@@ -73,6 +73,20 @@
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
 | Marvin Jakobs           | Section 003       | OfficialMarvin       |<https://officialmarvin.github.io/StatPractice/>            |
+| Jack Kociolek           | Section 003       | JackKociolek         |<https://jyk5474.github.io/Stat184_Kociolek/>               |
+| Zaire Giles             | Section 003       | 0mgitsdezaire        |<https://0mgitsdezaire.github.io/isolated-statwork/>        |
+| Varun Bhatnagar         | Section 003       | vb2024               |<https://vb2024.github.io/Stat184/>               |
+| Ethan Wertz             | Section 003       | evw5316              |<https://evw5316.github.io/repo1/>                          |
+| TianYa Jen              | Section 003       | StephanieJen         |<https://stephaniejen.github.io/GitHub_Practice-/           |
+| Aaryan Bavishi          | Section 003       | AaryanBavishi        | <https://aaryanbavishi.github.io/State184/>                |
+| Saumyaa Sinha           | Section 003       | saumyaasinha         | <https://saumyaasinha.github.io/PSU/>                      |
+| Jill Mannix|            | Section 003       | jam8291              | <https://jam8291.github.io/stat184/>                       |
+| Shane Marotta           | Section 003       | Shane-Marotta        |<https://shane-marotta.github.io/Stat184-Githubpractice/>   |
+| Kate Acosta             | Section 003       | kaa5772              |<https://kaa5772.github.io/Stat184/>                        |
+
+
+
+
 
 
 
