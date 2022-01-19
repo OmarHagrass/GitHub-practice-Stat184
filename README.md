@@ -73,6 +73,7 @@
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
 | Ethan Wertz             | Section 003       | evw5316              |<https://evw5316.github.io/repo1/>                          |
+| TianYa Jen              | Section 003       | StephanieJen         |<https://stephaniejen.github.io/GitHub_Practice-/           |
 | Aaryan Bavishi          | Section 003       | AaryanBavishi        | <https://aaryanbavishi.github.io/State184/>                |
 | Saumyaa Sinha           | Section 003       | saumyaasinha         | <https://saumyaasinha.github.io/PSU/>                      |
 | Jill Mannix|            | Section 003       | jam8291              | <https://jam8291.github.io/stat184/>                       |
